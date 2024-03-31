@@ -1,5 +1,5 @@
 #pragma once
-#include "data/content-type.h"
+#include "types/content-type.h"
 #include <string>
 
 class HTTPResponseBuilder

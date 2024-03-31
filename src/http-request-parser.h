@@ -1,5 +1,5 @@
 #pragma once
-#include "data/http-request.h"
+#include "types/http-request.h"
 
 class HTTPRequestParser
 {

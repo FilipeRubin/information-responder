@@ -1,7 +1,7 @@
 #pragma once
 #include "i-web-server.h"
 #include "directory-file-reader.h"
-#include "data/http-request.h"
+#include "types/http-request.h"
 #include "i-message-logger.h"
 #include <WinSock2.h>
 #include <memory>
